@@ -6,7 +6,11 @@ This repository is filled with solutions to a number of different problems invol
 
 1. **Problem 7** from *Project Euler* can be found [here](https://projecteuler.net/problem=7)
 
+*What is the 10,001st prime number?*
+
 1. **Problem 10** from *Project Euler* can be found [here](https://projecteuler.net/problem=10). *__Note__*: Running problem 10 currently takes a very long time, and has some lag issues. 
+
+*Find the sum of all the primes below two million.*
 
 1. A collection of **Array-1** probelms from *Coding Bat* can be found [here](https://codingbat.com/java/Array-1), however not all of the solutions to **Array-1** can be found in this repository. 
 
