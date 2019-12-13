@@ -2,7 +2,7 @@
 ## Emma Slibeck :grin:
 ### December 2019, Dr. Zufelt
 
-This repository is filled with solutions to a number of differnt problems involving arrays using the Swift programming language. The probelms were taken from a number of resources including *Project Euler* and *Coding Bat*. If you are learing about arrays there are a number of good propbelms to test out in this repository, or to help you undertsand the **power** that arrays have!
+This repository is filled with solutions to a number of different problems involving arrays using the Swift programming language. The probelms were taken from a number of resources including *Project Euler* and *Coding Bat*. If you are learing about arrays there are a number of good propbelms to test out in this repository, or to help you undertsand the **power** that arrays have!
 
 1. **Problem 7** from *Project Euler* can be found [here](https://projecteuler.net/problem=7)
 
