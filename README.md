@@ -5,12 +5,10 @@
 This repository is filled with solutions to a number of different problems involving arrays using the Swift programming language. The probelms were taken from a number of resources including *Project Euler* and *Coding Bat*. If you are learing about arrays there are a number of good propbelms to test out in this repository, or to help you undertsand the **power** that arrays have!
 
 1. **Problem 7** from *Project Euler* can be found [here](https://projecteuler.net/problem=7)
-
-*What is the 10,001st prime number?*
+    1. *What is the 10,001st prime number?*
 
 1. **Problem 10** from *Project Euler* can be found [here](https://projecteuler.net/problem=10). *__Note__*: Running problem 10 currently takes a very long time, and has some lag issues. 
-
-*Find the sum of all the primes below two million.*
+    1. *Find the sum of all the primes below two million.*
 
 1. A collection of **Array-1** probelms from *Coding Bat* can be found [here](https://codingbat.com/java/Array-1), however not all of the solutions to **Array-1** can be found in this repository. 
 
