@@ -13,3 +13,6 @@ This repository is filled with solutions to a number of different problems invol
 1. In this repository there is also a file called *"12_09_hw.playground"* that contains a number of small array problems. 
 
 The link to this repository can be found here: https://github.com/esly20/Project5_ESlibeck
+
+
+I helped Ryan on his README file by adding details about what language the problems were written in his [repository](https://github.com/ryanvmai/CSC509-Project-5)
