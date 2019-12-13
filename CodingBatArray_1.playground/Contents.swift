@@ -1,6 +1,7 @@
 /*
  Emma Slibeck
  Project 5: Coding Bat Array-1
+ https://codingbat.com/java/Array-1
 */
 
 
